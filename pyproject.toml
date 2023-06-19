@@ -4,7 +4,6 @@ version = "0.1.0"
 description = ""
 authors = ["Andy <andyhu2014@gmail.com>"]
 readme = "README.md"
-packages = [{include = "random_quote_generator_1"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
